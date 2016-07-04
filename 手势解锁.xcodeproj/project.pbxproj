@@ -15,6 +15,26 @@
 		64DDA54F1C86B64200694AE1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 64DDA54D1C86B64200694AE1 /* LaunchScreen.storyboard */; };
 		64DDA55A1C86B64200694AE1 /* ____Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 64DDA5591C86B64200694AE1 /* ____Tests.m */; };
 		64DDA5651C86B64200694AE1 /* ____UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 64DDA5641C86B64200694AE1 /* ____UITests.m */; };
+		64DDA5741C86B9C900694AE1 /* CustomView.m in Sources */ = {isa = PBXBuildFile; fileRef = 64DDA5731C86B9C900694AE1 /* CustomView.m */; };
+		64DDA5771C86DD9E00694AE1 /* GirlsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 64DDA5761C86DD9E00694AE1 /* GirlsViewController.m */; };
+		64DDA5811C86DDC000694AE1 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 64DDA5781C86DDC000694AE1 /* 1.jpg */; };
+		64DDA5821C86DDC000694AE1 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 64DDA5791C86DDC000694AE1 /* 2.jpg */; };
+		64DDA5831C86DDC000694AE1 /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 64DDA57A1C86DDC000694AE1 /* 3.jpg */; };
+		64DDA5841C86DDC000694AE1 /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 64DDA57B1C86DDC000694AE1 /* 4.jpg */; };
+		64DDA5851C86DDC000694AE1 /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 64DDA57C1C86DDC000694AE1 /* 5.jpg */; };
+		64DDA5861C86DDC000694AE1 /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 64DDA57D1C86DDC000694AE1 /* 6.jpg */; };
+		64DDA5871C86DDC000694AE1 /* 7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 64DDA57E1C86DDC000694AE1 /* 7.jpg */; };
+		64DDA5881C86DDC000694AE1 /* 8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 64DDA57F1C86DDC000694AE1 /* 8.jpg */; };
+		64DDA5891C86DDC000694AE1 /* 9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 64DDA5801C86DDC000694AE1 /* 9.jpg */; };
+		64DDA58B1C86DDFC00694AE1 /* Girls.xib in Resources */ = {isa = PBXBuildFile; fileRef = 64DDA58A1C86DDFC00694AE1 /* Girls.xib */; };
+		64DDA5921C86E83300694AE1 /* GirlssssViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 64DDA5901C86E83300694AE1 /* GirlssssViewController.m */; };
+		64DDA5931C86E83300694AE1 /* GirlssssViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 64DDA5911C86E83300694AE1 /* GirlssssViewController.xib */; };
+		64DDA59A1C86EA5B00694AE1 /* 15.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 64DDA5941C86EA5B00694AE1 /* 15.jpg */; };
+		64DDA59B1C86EA5B00694AE1 /* 14.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 64DDA5951C86EA5B00694AE1 /* 14.jpg */; };
+		64DDA59C1C86EA5B00694AE1 /* 13.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 64DDA5961C86EA5B00694AE1 /* 13.jpg */; };
+		64DDA59D1C86EA5B00694AE1 /* 12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 64DDA5971C86EA5B00694AE1 /* 12.jpg */; };
+		64DDA59E1C86EA5B00694AE1 /* 11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 64DDA5981C86EA5B00694AE1 /* 11.jpg */; };
+		64DDA59F1C86EA5B00694AE1 /* 10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 64DDA5991C86EA5B00694AE1 /* 10.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +71,29 @@
 		64DDA5601C86B64200694AE1 /* 手势解锁UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "手势解锁UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		64DDA5641C86B64200694AE1 /* ____UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "____UITests.m"; sourceTree = "<group>"; };
 		64DDA5661C86B64200694AE1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		64DDA5721C86B9C800694AE1 /* CustomView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomView.h; sourceTree = "<group>"; };
+		64DDA5731C86B9C900694AE1 /* CustomView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomView.m; sourceTree = "<group>"; };
+		64DDA5751C86DD9E00694AE1 /* GirlsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GirlsViewController.h; sourceTree = "<group>"; };
+		64DDA5761C86DD9E00694AE1 /* GirlsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GirlsViewController.m; sourceTree = "<group>"; };
+		64DDA5781C86DDC000694AE1 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		64DDA5791C86DDC000694AE1 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		64DDA57A1C86DDC000694AE1 /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		64DDA57B1C86DDC000694AE1 /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
+		64DDA57C1C86DDC000694AE1 /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
+		64DDA57D1C86DDC000694AE1 /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpg; sourceTree = "<group>"; };
+		64DDA57E1C86DDC000694AE1 /* 7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7.jpg; sourceTree = "<group>"; };
+		64DDA57F1C86DDC000694AE1 /* 8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 8.jpg; sourceTree = "<group>"; };
+		64DDA5801C86DDC000694AE1 /* 9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9.jpg; sourceTree = "<group>"; };
+		64DDA58A1C86DDFC00694AE1 /* Girls.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Girls.xib; sourceTree = "<group>"; };
+		64DDA58F1C86E83300694AE1 /* GirlssssViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GirlssssViewController.h; sourceTree = "<group>"; };
+		64DDA5901C86E83300694AE1 /* GirlssssViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GirlssssViewController.m; sourceTree = "<group>"; };
+		64DDA5911C86E83300694AE1 /* GirlssssViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = GirlssssViewController.xib; sourceTree = "<group>"; };
+		64DDA5941C86EA5B00694AE1 /* 15.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 15.jpg; sourceTree = "<group>"; };
+		64DDA5951C86EA5B00694AE1 /* 14.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 14.jpg; sourceTree = "<group>"; };
+		64DDA5961C86EA5B00694AE1 /* 13.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 13.jpg; sourceTree = "<group>"; };
+		64DDA5971C86EA5B00694AE1 /* 12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 12.jpg; sourceTree = "<group>"; };
+		64DDA5981C86EA5B00694AE1 /* 11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 11.jpg; sourceTree = "<group>"; };
+		64DDA5991C86EA5B00694AE1 /* 10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 10.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,10 +144,33 @@
 		64DDA53E1C86B64200694AE1 /* 手势解锁 */ = {
 			isa = PBXGroup;
 			children = (
+				64DDA5781C86DDC000694AE1 /* 1.jpg */,
+				64DDA5791C86DDC000694AE1 /* 2.jpg */,
+				64DDA57A1C86DDC000694AE1 /* 3.jpg */,
+				64DDA57B1C86DDC000694AE1 /* 4.jpg */,
+				64DDA57C1C86DDC000694AE1 /* 5.jpg */,
+				64DDA57D1C86DDC000694AE1 /* 6.jpg */,
+				64DDA57E1C86DDC000694AE1 /* 7.jpg */,
+				64DDA57F1C86DDC000694AE1 /* 8.jpg */,
+				64DDA5801C86DDC000694AE1 /* 9.jpg */,
+				64DDA5941C86EA5B00694AE1 /* 15.jpg */,
+				64DDA5951C86EA5B00694AE1 /* 14.jpg */,
+				64DDA5961C86EA5B00694AE1 /* 13.jpg */,
+				64DDA5971C86EA5B00694AE1 /* 12.jpg */,
+				64DDA5981C86EA5B00694AE1 /* 11.jpg */,
+				64DDA5991C86EA5B00694AE1 /* 10.jpg */,
 				64DDA5421C86B64200694AE1 /* AppDelegate.h */,
 				64DDA5431C86B64200694AE1 /* AppDelegate.m */,
 				64DDA5451C86B64200694AE1 /* ViewController.h */,
 				64DDA5461C86B64200694AE1 /* ViewController.m */,
+				64DDA5751C86DD9E00694AE1 /* GirlsViewController.h */,
+				64DDA5761C86DD9E00694AE1 /* GirlsViewController.m */,
+				64DDA58F1C86E83300694AE1 /* GirlssssViewController.h */,
+				64DDA5901C86E83300694AE1 /* GirlssssViewController.m */,
+				64DDA5911C86E83300694AE1 /* GirlssssViewController.xib */,
+				64DDA58A1C86DDFC00694AE1 /* Girls.xib */,
+				64DDA5721C86B9C800694AE1 /* CustomView.h */,
+				64DDA5731C86B9C900694AE1 /* CustomView.m */,
 				64DDA5481C86B64200694AE1 /* Main.storyboard */,
 				64DDA54B1C86B64200694AE1 /* Assets.xcassets */,
 				64DDA54D1C86B64200694AE1 /* LaunchScreen.storyboard */,
@@ -207,6 +273,7 @@
 				TargetAttributes = {
 					64DDA53B1C86B64200694AE1 = {
 						CreatedOnToolsVersion = 7.2;
+						DevelopmentTeam = TLWY4JCDJ3;
 					};
 					64DDA5541C86B64200694AE1 = {
 						CreatedOnToolsVersion = 7.2;
@@ -243,7 +310,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				64DDA5881C86DDC000694AE1 /* 8.jpg in Resources */,
+				64DDA5861C86DDC000694AE1 /* 6.jpg in Resources */,
+				64DDA59D1C86EA5B00694AE1 /* 12.jpg in Resources */,
 				64DDA54F1C86B64200694AE1 /* LaunchScreen.storyboard in Resources */,
+				64DDA59E1C86EA5B00694AE1 /* 11.jpg in Resources */,
+				64DDA58B1C86DDFC00694AE1 /* Girls.xib in Resources */,
+				64DDA5931C86E83300694AE1 /* GirlssssViewController.xib in Resources */,
+				64DDA59C1C86EA5B00694AE1 /* 13.jpg in Resources */,
+				64DDA59A1C86EA5B00694AE1 /* 15.jpg in Resources */,
+				64DDA5851C86DDC000694AE1 /* 5.jpg in Resources */,
+				64DDA59F1C86EA5B00694AE1 /* 10.jpg in Resources */,
+				64DDA5841C86DDC000694AE1 /* 4.jpg in Resources */,
+				64DDA5811C86DDC000694AE1 /* 1.jpg in Resources */,
+				64DDA5821C86DDC000694AE1 /* 2.jpg in Resources */,
+				64DDA59B1C86EA5B00694AE1 /* 14.jpg in Resources */,
+				64DDA5831C86DDC000694AE1 /* 3.jpg in Resources */,
+				64DDA5871C86DDC000694AE1 /* 7.jpg in Resources */,
+				64DDA5891C86DDC000694AE1 /* 9.jpg in Resources */,
 				64DDA54C1C86B64200694AE1 /* Assets.xcassets in Resources */,
 				64DDA54A1C86B64200694AE1 /* Main.storyboard in Resources */,
 			);
@@ -270,7 +354,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				64DDA5771C86DD9E00694AE1 /* GirlsViewController.m in Sources */,
 				64DDA5471C86B64200694AE1 /* ViewController.m in Sources */,
+				64DDA5921C86E83300694AE1 /* GirlssssViewController.m in Sources */,
+				64DDA5741C86B9C900694AE1 /* CustomView.m in Sources */,
 				64DDA5441C86B64200694AE1 /* AppDelegate.m in Sources */,
 				64DDA5411C86B64200694AE1 /* main.m in Sources */,
 			);
@@ -411,9 +498,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "手势解锁/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "xunbao.----";
+				PRODUCT_BUNDLE_IDENTIFIER = xunbao.jiesou;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -422,9 +510,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "手势解锁/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "xunbao.----";
+				PRODUCT_BUNDLE_IDENTIFIER = xunbao.jiesou;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
